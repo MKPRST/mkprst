@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <!--![instagram](https://github.com/MKthePrst/mktheprst/assets/171680982/592cf1ae-5103-4e4b-b530-dc5fbaac9e95) -->
 
 <!--뱃지-->
-<a href="https://www.instagram.com/ch_oi_choi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=red" width='200' height='45' /></a>
-<a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=red" width='200' height='45' /></a>
+<a href="https://www.instagram.com/ch_oi_choi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=red" width='150' height='20' /></a>
+<a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=red" width='150' height='20' /></a>
