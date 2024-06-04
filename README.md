@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![instagram](https://github.com/MKthePrst/mktheprst/assets/171680982/592cf1ae-5103-4e4b-b530-dc5fbaac9e95)
+<!--![instagram](https://github.com/MKthePrst/mktheprst/assets/171680982/592cf1ae-5103-4e4b-b530-dc5fbaac9e95) -->
 
-<a href="https://www.instagram.com/ch_oi_choi/" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="https://www.instagram.com/ch_oi_choi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat&logo=Instagram&logoColor=red"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 
