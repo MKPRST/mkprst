@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" width='100' height='30' /></a>
 <br>
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logoColor=white" width='100' height='30' /></a>
-<a><img src="https://img.shields.io/badge/C++-00599Cstyle=flat&logo=JavaScript&logoColor=#00599C" width='100' height='30' /></a>
+<a><img src="https://img.shields.io/badge/C++-00599Cstyle=flat&logo=C++&logoColor=#00599C" width='100' height='30' /></a>
