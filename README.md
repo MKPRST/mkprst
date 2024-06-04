@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 <!--뱃지-->
 <a href="https://www.instagram.com/ch_oi_choi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=red" width='200' height='45' /></a>
-<a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=Instagram&logoColor=red" width='200' height='45' /></a>
+<a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=red" width='200' height='45' /></a>
