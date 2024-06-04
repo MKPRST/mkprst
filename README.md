@@ -1,4 +1,4 @@
-## Hi there 👋
+## 민규의 깃허브 연습공간
 
 <!--
 **MKthePrst/mktheprst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
