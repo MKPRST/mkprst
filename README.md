@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 # My Tech
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" width='100' height='30' /></a>
 <a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" width='100' height='30' /></a>
-<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Java&logoColor=white" width='100' height='30' /></a>
+<a><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" width='100' height='30' /></a>
 
