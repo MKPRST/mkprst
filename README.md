@@ -1,4 +1,4 @@
-## 🌸민규의 포트폴리오
+## >🌸민규의 포트폴리오
 
 <!--
 **MKthePrst/mktheprst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
