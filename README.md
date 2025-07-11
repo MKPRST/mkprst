@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--뱃지-->
 # Badge
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=red" width='100' height='28' /></a>
-<a href="https://www.youtube.com/watch?v=AO1OqWwKj1A&list=PLH8-ITmlC6XsXuCf1vaDSGBM3gTB87qSQ&index=15" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=red" width='100' height='28' /></a>
+<a href="https://www.youtube.com/watch?v=eny0BqmSwmM&list=RDeny0BqmSwmM&start_radio=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=red" width='100' height='28' /></a>
 
 # My Tech
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" width='100' height='30' /></a>
