@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logoColor=white" width='100' height='30' /></a>
 <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" width='100' height='30' /></a>
 <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" width='100' height='30' /></a>
-<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" width='100'  /></a>
+<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
 
 # Blog
 > [개인 블로그](https://mkprst.tistory.com)
