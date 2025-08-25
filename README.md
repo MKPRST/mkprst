@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/watch?v=eny0BqmSwmM&list=RDeny0BqmSwmM&start_radio=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=red" width='100' height='28' /></a>
 
 # My Tech
-<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" width='100' height='30' /></a>
+<a><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white" width='100' height='30' /></a>
 <a><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" width='100' height='30' /></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" width='100' height='30' /></a>
 <br>
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" width='100' height='30' /></a>
 <br>
 <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" width='100' height='30' /></a>
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" width='100' height='30' /></a>
 
 # Blog
 > [개인 블로그](https://mkprst.tistory.com)
